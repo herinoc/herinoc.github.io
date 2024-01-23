@@ -253,7 +253,7 @@ span{
 }
 
 .services-container .services-box{
-    flex: 2rem;
+    flex: 4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
