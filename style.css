@@ -89,7 +89,7 @@ section{
 } 
 
 .content-home h3{
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 920;
     color: var(--text-color);
 }
@@ -105,7 +105,7 @@ span{
 
 .content-home h3:nth-of-type(2){
     margin-bottom: 10px;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 .content-home h1{
@@ -214,7 +214,7 @@ span{
     }
     61%,
     100%{
-        content: 'Network Operation Center';
+        content: 'Network Engineer';
     }
  }
 
