@@ -639,7 +639,7 @@ span{
       margin: 0 5rem;
     }
   } 
-  @media (max-width: 100px){
+  @media (max-width:1000px){
     header{
       padding: 2rem 3%;
     }
